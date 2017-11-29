@@ -32,7 +32,11 @@ gem 'activeadmin-xls'
 
 Here are a few quick examples of things you can easily tweak.
 
+<<<<<<< HEAD
 ### Localize column headers
+=======
+## localize column headers
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 
 ```ruby
 # app/admin/posts.rb
@@ -41,7 +45,11 @@ ActiveAdmin.register Post do
 end
 ```
 
+<<<<<<< HEAD
 ### Use blocks for adding computed fields
+=======
+## Use blocks for adding computed fields
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 
 ```ruby
 # app/admin/posts.rb
@@ -52,7 +60,11 @@ ActiveAdmin.register Post do
 end
 ```
 
+<<<<<<< HEAD
 ### Change the column header format
+=======
+## Change the column header format
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 
 ```ruby
 # app/admin/posts.rb
@@ -62,7 +74,11 @@ ActiveAdmin.register Post do
 end
 ```
 
+<<<<<<< HEAD
 ### Remove columns
+=======
+## Remove columns
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 
 ```ruby
 # app/admin/posts.rb
@@ -71,7 +87,11 @@ ActiveAdmin.register Post do
 end
 ```
 
+<<<<<<< HEAD
 ## Using the DSL
+=======
+# Using the DSL
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 
 Everything that you do with the config's default builder can be done via
 the resource DSL.
@@ -110,8 +130,13 @@ ActiveAdmin.register Post do
 end
 ```
 
+<<<<<<< HEAD
 ## Specs
 
+=======
+# Specs
+------
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 Running specs for this gem requires that you construct a rails application.
 To execute the specs, navigate to the gem directory,
 run bundle install and run these to rake tasks:
@@ -124,7 +149,12 @@ bundle exec rake setup
 bundle exec rake
 ```
 
+<<<<<<< HEAD
 ## Copyright and License
+=======
+# Copyright and License
+----------
+>>>>>>> 8440c797967129e42a4e21909269ae272eaf3b00
 
 activeadmin-xls &copy; 2014 by [Todd Hambley](mailto:thambley@travelleaders.com).
 
